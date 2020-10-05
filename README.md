@@ -1,4 +1,4 @@
-# Iris
+[![Run on Repl.it](https://repl.it/badge/github/IceCereal/Iris-Bot)](https://repl.it/github/IceCereal/Iris-Bot)# Iris
 ###### A Multi-Function discord bot meant for administrative purposes made using [discord.py](https://www.github.com/Rapptz/discord.py)
 [![branch](https://img.shields.io/badge/branch-Iris-brightgreen.svg)](https://github.com/IceCereal/Iris-Bot/tree/Iris)
 [![version](https://img.shields.io/badge/version-v0.0.1-green.svg)](#)
